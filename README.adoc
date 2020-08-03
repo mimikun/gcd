@@ -1,0 +1,16 @@
+= gcd
+
+cd using ghq and fzf
+
+== Install
+
+[source,shell]
+----
+fisher add github.com/mimikun/gcd
+----
+
+== Require
+
+* ghq
+* fzf
+
