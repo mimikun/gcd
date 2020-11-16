@@ -6,11 +6,10 @@ cd using ghq and fzf
 
 [source,shell]
 ----
-fisher add github.com/mimikun/gcd
+fisher install mimikun/gcd
 ----
 
 == Require
 
 * ghq
 * fzf
-
